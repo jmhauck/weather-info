@@ -1,1 +1,1 @@
-# weather-service
+# weather-info
