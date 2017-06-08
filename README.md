@@ -3,6 +3,8 @@
 Parse weather details response from free world weather online API.
 
 ### Setup
+ * install node js
+ `https://nodejs.org/en/`
  * Clone this repository
  * cd to `weather-info` folder
  * Run `npm install`
