@@ -49,14 +49,6 @@ Parse weather details response from free world weather online API.
       "mintemp_f": 55.8,
       "date": "2017-06-10",
       "icon": "//cdn.apixu.com/weather/64x64/day/113.png"
-    },
-    {
-      "maxtemp_c": 31.2,
-      "maxtemp_f": 88.2,
-      "mintemp_c": 12.2,
-      "mintemp_f": 54,
-      "date": "2017-06-11",
-      "icon": "//cdn.apixu.com/weather/64x64/day/119.png"
     }
   ],
   "credits": {
